@@ -143,4 +143,3 @@ API çalıştıktan sonra:
 
 
 .
-.
