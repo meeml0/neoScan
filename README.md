@@ -142,4 +142,4 @@ API çalıştıktan sonra:
 - Inference süresi: ~100ms (CPU), ~20ms (GPU)
 
 
-.
+
